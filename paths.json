@@ -1,15 +1,15 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/carvelo-site-placeholder/language-masters/en:/",
+    "/content/carvelo-site-placeholder/language-masters/en/:/en/",
+    "/content/carvelo-site-placeholder/configuration:/.helix/config.json",
+    "/content/carvelo-site-placeholder/metadata:/metadata.json",
+    "/content/carvelo-site-placeholder/redirects:/redirects.json",
+    "/content/carvelo-site-placeholder/graphql:/graphql.json",
+    "/content/carvelo-site-placeholder/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/carvelo-site-placeholder/",
+    "/content/dam/carvelo-site-placeholder/"
   ]
 }
