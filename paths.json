@@ -9,7 +9,7 @@
     "/content/carvelo-site-placeholder/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/carvelo-site-placeholder/", 
+    "/content/carvelo-site-placeholder/",
     "/content/dam/carvelo-site-placeholder/"
   ]
 }
